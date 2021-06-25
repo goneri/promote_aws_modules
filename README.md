@@ -17,6 +17,5 @@
 
 Well, not really, there is still a couple of stuff to improve :-).
 
-- also migrate the entries from the ignore files
 - generate some changelog fragments
 - generate a clean up commit in the community.aws collection
